@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - bellman",
+            "request": "launch",
+            "mainClass": "bellman"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - crc",
+            "request": "launch",
+            "mainClass": "crc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - crc1",
+            "request": "launch",
+            "mainClass": "crc1"
+        }
+    ]
+}
